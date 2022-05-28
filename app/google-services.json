@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31737371094",
+    "project_id": "practical5cyrus",
+    "storage_bucket": "practical5cyrus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31737371094:android:ee2a5e3e91bcd4b3e7ec77",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.practical3cyrus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31737371094-hm2laemrkbf3j2khthi7raf2q9lssq8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Wks51CD8jtzHhSArV19l937KIn5EMEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31737371094-hm2laemrkbf3j2khthi7raf2q9lssq8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
