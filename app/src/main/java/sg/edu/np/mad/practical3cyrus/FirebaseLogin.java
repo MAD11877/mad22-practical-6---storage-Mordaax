@@ -46,10 +46,9 @@ public class FirebaseLogin extends AppCompatActivity {
 
                         EditText editPasswordLogin = (EditText)findViewById(R.id.editTextPassword);
                         String passwordLogin = editPasswordLogin.getText().toString();
-                        Log.i("Username", userNameLogin+dbusername);
-                        Log.i("Password", passwordLogin+dbpassword);
+
                         if (dbusername.equals(userNameLogin) && dbpassword.equals(passwordLogin)){
-                            Log.i("Login","yes");
+
                             Intent ListActivtiy = new Intent(FirebaseLogin.this, ListActivity.class);
                             startActivity(ListActivtiy);
                         }
